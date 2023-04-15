@@ -1,5 +1,3 @@
-Spring Cloud Configuration
-
 
 # Spring Cloud Config
 
