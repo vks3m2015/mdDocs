@@ -1,0 +1,21 @@
+SOLID Priciples -
+
+https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
+https://www.youtube.com/watch?v=BM_lSZPMClo&list=RDCMUCORuRdpN2QTCKnsuEaeK-kQ&index=10
+https://en.wikipedia.org/wiki/SOLID
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+
+
+Circuit breaker - Resilience4j
+https://spring.io/guides/gs/cloud-circuit-breaker/#initial
+
+https://www.baeldung.com/java-reactor-flux-vs-mono
+
+
+Spring Cloud config
+
+
+
+
+Tree like folder structure Angular
+https://www.youtube.com/watch?v=UPSUpb1_hGc

@@ -1,0 +1,1 @@
+## ThreadSafe Singleton Class
